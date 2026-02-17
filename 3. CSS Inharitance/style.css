@@ -1,0 +1,11 @@
+body {
+    font-family: Arial;
+    background-color: greenyellow;
+    padding : 10px; /* Memberi jarak pada body */
+}
+
+.intro {
+    border: 2px solid #665544; /* Memberi warna di tag div */
+    background-color: #efefef; 
+    padding : inherit; /* Mengambil nilai padding dari body (parent) */
+}
