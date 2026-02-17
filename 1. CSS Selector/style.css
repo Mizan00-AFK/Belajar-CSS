@@ -20,8 +20,8 @@ li {
 
 /* Class Selector */
 
-li.sarapan {
-    color :darkgoldenrod;
+.sarapan {
+    color :blueviolet;
 }
 
 /* ID Selector */

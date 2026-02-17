@@ -1,0 +1,40 @@
+* {
+    font-family : arial;
+}
+
+/* Aturan terakhir */
+i {
+    color : red;
+}
+
+i {
+     color : green; /* Yang diambil yang ini/terakhir  */
+}
+
+/* Aturan Spesifik */
+b {
+    color :pink; /* Level 1 */
+}
+
+p b {
+    color : brown !important; /* Yang diambil yang ini karena menggunakan !important */
+    /* Level 3 */
+}
+
+p b {
+    color : blue; /* Yang diambil yang ini karena lebih spesifik */
+    /* Level 2 */
+}
+
+p b {
+    font-size : 150%; /* Yang diambil yang ini karena lebih spesifik */
+}
+
+/* Studi Kasus */
+p {
+    font-size : 100%;
+}
+
+p#pendahuluan {
+    font-size : 50%; /* Yang diambil yang ini karena lebih spesifik */
+}
