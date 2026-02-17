@@ -1,0 +1,32 @@
+body {
+    background-color: #efefef;
+    color : #efefef;
+}
+
+#artikel {
+    border : 1px solid #342b2b;
+    background-color: #7d7070;
+    padding : 20px;
+}
+
+h1 {
+    background-color: rgb(255, 0, 111,1);
+    padding : 10px;
+}
+
+h2 {
+    background-color: rgb(255, 0, 111, 0.5);
+    padding : 10px;
+}
+
+/* hsl : hue(0-360), saturation(0-100%), lightness(0-100%)*/
+p.paragraf1 {
+    background-color: hsl(150, 50%, 25%);  
+    padding:10px;
+}
+
+/* hsla : hue(0-360), saturation(0-100%), lightness(0-100%), alpha(0-1) */
+p.paragraf2 {
+    background-color: hsla(150, 50%, 25%, 0.5);  
+    padding:10px;
+}
