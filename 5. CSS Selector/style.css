@@ -1,0 +1,60 @@
+/* Universal Selector */
+
+* {
+    font-family : 'Courier New';
+}
+
+/* Type Selector */
+
+h1 {
+    color:tomato;
+}
+
+h2 {
+    color :darkblue;
+}
+
+li {
+    color :red;
+}
+
+/* Class Selector */
+
+li.sarapan {
+    color :darkgoldenrod;
+}
+
+/* ID Selector */
+
+#maksi-senin {
+    color :darkgreen;
+}
+
+/* Child Selector */
+
+ p>b { /* Artinya tag b anak dari tag p */
+    color :darkorange;
+}
+
+li>b { /* Artinya tag b anak dari tag li */
+    color : rgb(6, 6, 3);
+}
+
+/* Decendant Selector */
+
+p b { /* Artinya tag b keturunan dari tag p */
+    color :darkred;
+}
+/* Kenapa ini yang jalan di bagian kata "makan" karena yang paling terakhir yang dieksekusi */
+
+/* Adjacent Selector */
+
+p + h2 { /* Artinya tag h2 yang langsung setelah tag p */
+    color :deeppink;
+}
+
+/* General Sibling Selector */
+h2 ~ p { /* Artinya tag p yang berada setelah tag h2 */
+    color :darkcyan;
+    font-family : 'Times New Roman', Times, serif;
+}
