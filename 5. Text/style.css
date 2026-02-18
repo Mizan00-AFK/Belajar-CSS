@@ -1,0 +1,51 @@
+h1 {
+    font-family: Georgia;
+    font-size: xx-large;
+    font-weight: normal;
+    text-transform:uppercase;
+    text-align : center;
+    color:brown;
+    text-shadow:10px 5px 5px black;
+    word-spacing:0.25em;
+    letter-spacing: 5px;
+
+}
+
+.credit {
+    font-family:verdana;
+    font-size:11px;
+    font-weight:bold;
+    font-style:italic;
+    /* text-decoration: underline; */
+    text-transform:capitalize;
+    text-align:center;
+}
+
+.tautan {
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:150%;
+    /* text-decoration:none; */
+    text-transform:lowercase;
+    text-align:center;
+}
+
+a.tautan:hover {
+    color:deeppink; 
+    /* Jika kursor diarahkan ke link, maka warna link akan berubah menjadi deeppink */
+}
+
+a.tautan:active {
+    color:darkcyan; 
+    /* jika link sedang diklik, maka warna link akan berubah menjadi darkcyan */
+}
+
+a.tautan:visited {
+    color:green;
+    /* jika link sudah pernah dikunjungi, maka warna link akan berubah menjadi green */
+}
+
+p.intro {
+    font-family:'segoe ui';
+    font-size: 1.2em;
+    text-align:justify;
+}
