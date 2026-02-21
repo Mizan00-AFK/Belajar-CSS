@@ -1,0 +1,44 @@
+* {
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.dekor {
+    width : fit-content;
+    /* fit content agar rapettt */
+    height : fit-content;
+    border : 5px solid;
+    padding : 20px;
+}
+
+.margin-1 {
+    margin : 5px;
+}
+
+.margin-2 {
+    margin : 10px 20px;
+    /* atas-bawah  kanan-kiri */
+   /* margin : 10px auto; */
+    /* atas-bawah  kanan-kiri auto tengah*/
+}
+
+.margin-3 {
+    margin : 10px 20px 50px;
+    /* atas  kanan-kiri  bawah */
+    margin : 10px auto 50px;
+    /* atas  kanan-kiri auto bawah */
+}
+
+.margin-4 {
+    /* margin : 10px 20px 40px 100px;
+    /* atas  kanan  bawah  kiri */
+    /* margin : 10px 20px 40px auto; */
+    /* atas  kanan  bawah  kiri auto tengah (rata kanan) */
+    margin: top 10px;
+    margin-right:20px;
+    margin-bottom:40px;
+    margin-left:auto;
+    /* rata kanan */
+}
+
+/* Geser Nilai di bagian kanan saja
+margin-right: 20px; */
