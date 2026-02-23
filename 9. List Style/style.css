@@ -1,0 +1,39 @@
+* {
+    font-family: arial;
+}
+
+h1 {
+    font-size : 25px;
+    color : crimson;
+}
+
+ol {
+    list-style-type : lower-roman;
+    /* Mengubah tampilan urutan (angka) pada list menjadi angka romawi kecil */
+    list-style-type : upper-alpha;
+    list-style-type : decimal; 
+    /* Mengembalikan ke angka (decimal) */
+}
+
+ul {
+    width : 400px;
+}
+
+ul li {
+    margin:10px;
+    /* list posisi */
+    list-style-position : inside;
+    /* Tampilan akan mirip paragraft */
+}
+
+ol.singkat {
+    list-style:lower-greek inside;
+    /* Urutan list-style : 
+      - type (circle, square, disc, decimal, lower-alpha, upper-alpha, lower-roman, upper-roman, lower-greek)
+      - position (inside, outside)
+    */
+}
+
+ul.singkat {
+    list-style:circle inside;
+}
