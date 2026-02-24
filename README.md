@@ -1,6 +1,4 @@
----
 
-````markdown
 # 🌑 Belajar CSS — Perjalanan Menuju Mahir  
 
 <p align="center">
@@ -18,7 +16,6 @@
   <img src="https://img.shields.io/badge/Mindset-Konsisten-8957e5?style=for-the-badge" />
 </p>
 
----
 
 ## 📚 Referensi Belajar
 
