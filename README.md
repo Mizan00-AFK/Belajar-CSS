@@ -103,7 +103,7 @@ Konsistensi > Motivasi.
 
 ## 👨‍💻 Author
 
-**Ibnu Sina**
+**Mizan00-AFK**
 Frontend Developer in Progress 🚀
 
 ---
