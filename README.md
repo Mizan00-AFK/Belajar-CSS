@@ -1,6 +1,8 @@
 
 # 🌑 Belajar CSS — Belajar Pelan2  
 by Ananda Mizan Ali
+Politeknik Statistika STIS
+2026
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Belajar%20CSS&fontSize=40&fontColor=ffffff&animation=fadeIn" />
