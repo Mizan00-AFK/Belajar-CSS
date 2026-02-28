@@ -46,22 +46,6 @@ Belajar CSS dari nol hingga memahami layout modern.
 
 ---
 
-## 🗂 Struktur Project
-
-```bash
-belajar-css/
-│
-├── index.html
-├── style.css
-├── latihan/
-│   ├── basic/
-│   ├── layout/
-│   └── mini-project/
-└── assets/
-```
-
----
-
 ## 📊 Progress Belajar
 
 ```
